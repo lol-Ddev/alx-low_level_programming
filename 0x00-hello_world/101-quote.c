@@ -15,8 +15,8 @@
  */
 
 /*
- * main -  C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
- * @void: returns the value of 1
+ * main - prints exactly and that piece of art is useful
+ * @void:returns the value of 1
  *
  */
 
