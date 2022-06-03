@@ -14,6 +14,11 @@
  *
  */
 
+/**
+ * main - prints exactly two lines of codes this phrase followed by new line
+ *
+ */
+
 int main(void)
 
 {
