@@ -2,9 +2,9 @@
 
 /*
  *
- *  * main - Prints sizes of characters
+ *  * main - Entry point
  *
- *  *
+ *
  *
  *  * Return: Always 0 (success)
  *
@@ -13,6 +13,11 @@
 int main(void)
 
 {
+	int a;
+	long int b;
+	long long int c;
+	char d;
+	float f; 
 
 		printf("Size of a char: %zu byte(s)\n", sizeof(char));
 
