@@ -15,7 +15,7 @@
  */
 
 /*
- * main - prints exactly and that piece of art is useful
+ * main: prints exactly "and that piece of art is useful"
  * @void:returns the value of 1
  *
  */
