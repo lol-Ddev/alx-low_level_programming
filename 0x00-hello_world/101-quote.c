@@ -14,12 +14,14 @@
  *
  */
 
-/**
- * main - prints exactly two lines of codes this phrase followed by new line
+/*
+ * main -  C program that prints exactly and that piece of art is useful" - Dora Korpar, 2015-10-19, followed by a new line, to the standard error.
+ * @void: returns the value of 1
  *
  */
 
 int main(void)
+
 
 {
 
