@@ -1,18 +1,18 @@
 #include <stdio.h>
 
-/**
+/*
  *
  *  * main - prints to string
  *
- *   *
+ *  *
  *
- *    * Description: Prints "and that piece of art is useful..." without puts
+ *  * Description: Prints "and that piece of art is useful..." without puts
  *
- *     *
+ *  *
  *
- *      * Return: 1
+ *  * Return: 1
  *
- *       */
+ */
 
 int main(void)
 
