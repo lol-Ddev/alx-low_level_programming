@@ -1,23 +1,11 @@
 #include <stdio.h>
-
-/*
- *
- *  * main - Entry point
- *
- *
- *
- *  * Return: Always 0 (success)
- *
- */
-
-/*
- *
- *main-
- *return: Always 0 (Success)
- *
- *
- *
- */
+/**
+*
+*main - prints
+*
+*Return: Always 0 (Success)
+*
+*/
 int main(void)
 
 {

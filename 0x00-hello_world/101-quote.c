@@ -1,24 +1,10 @@
 #include <stdio.h>
-
-/*
- *
- *  * main - prints to string
- *
- *  *
- *
- *  * Description: Prints "and that piece of art is useful..." without puts
- *
- *  *
- *
- *  * Return: 1
- *
- */
-
-/*
- *main: prints exactly 
- *return:Always 0 (success)
- *
- */
+/**
+*main - prints exactly
+*
+*Return: Always 0 (success)
+*
+*/
 
 int main(void)
 
