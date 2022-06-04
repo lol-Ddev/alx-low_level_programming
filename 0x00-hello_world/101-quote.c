@@ -15,8 +15,8 @@
  */
 
 /*
- * main: prints exactly "and that piece of art is useful"
- * @void:returns the value of 1
+ * main: prints exactly 
+ * return:Always 0 (success)
  *
  */
 

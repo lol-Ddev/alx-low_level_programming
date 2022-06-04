@@ -14,6 +14,11 @@
  *
  */
 
+/*
+ *main: print funtion
+ *Return: Always 0 (success)
+ *
+ */
 int main(void)
 
 {
