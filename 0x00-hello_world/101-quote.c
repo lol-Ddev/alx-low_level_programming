@@ -15,8 +15,8 @@
  */
 
 /*
- * main: prints exactly 
- * return:Always 0 (success)
+ *main: prints exactly 
+ *return:Always 0 (success)
  *
  */
 
