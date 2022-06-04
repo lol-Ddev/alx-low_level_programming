@@ -1,19 +1,17 @@
 #include <stdio.h>
 /**
-*
 *main - prints
 *
 *Return: Always 0 (Success)
 *
 */
 int main(void)
-
 {
 	int a;
 	long int b;
 	long long int c;
 	char d;
-	float f; 
+	float f;
 
 		printf("Size of a char: %zu byte(s)\n", sizeof(char));
 
