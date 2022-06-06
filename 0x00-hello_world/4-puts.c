@@ -2,6 +2,8 @@
 /*
 *main - prints
 *
+* Description : main is a print function
+*
 *Return : Always 0 (Success)
 *
 */
