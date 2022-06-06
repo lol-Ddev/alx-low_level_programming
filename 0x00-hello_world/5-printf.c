@@ -1,7 +1,10 @@
 #include <stdio.h>
 /**
 *main - print funtion
-*Return: Always 0 (success)
+*
+*Description: a short description
+*
+* Return: Always 0 (success)
 *
 */
 int main(void)
