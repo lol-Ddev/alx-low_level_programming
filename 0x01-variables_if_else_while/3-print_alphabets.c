@@ -4,7 +4,8 @@
 *main - entry point.
 *
 *Description: codes highlights
-*Return: Always 0.
+*
+* Return: Always 0.
 *
 */
 int main(void)
