@@ -2,20 +2,23 @@
 #include <time.h>
 #include <stdio.h>
 /* more headers goes there */
-/* betty style doc for function main goes there */
-/**
-*
+/*betty style doc for function main goes there 
 *main - entry point.
 *
-*Desdcription: function description goes here
+*Description: function description goes here
 *
-*Return: Always 0
-*
+*Return: Always 0 (success)
 */
+
+
+/*Description: this a the main() funtion*/
 int main(void)
+/*Description: another description*/
 {
 	int n;
+
 	int x;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	x = n % 10;
