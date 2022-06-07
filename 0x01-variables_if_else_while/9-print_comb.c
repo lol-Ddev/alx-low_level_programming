@@ -6,6 +6,7 @@
 */
 
 int main(void)
+
 {
 	int n;
 
@@ -14,7 +15,7 @@ int main(void)
 		putchar(n);
 		if (n != 57)
 		{
-			puthar(',');
+			putchar(',');
 			putchar(' ');
 		}
 	}

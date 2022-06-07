@@ -2,9 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-*
 *main - The entry point of my program
-*
 *
 *Description: The program prints all single digit numbers
 *
@@ -14,9 +12,11 @@
 *
 */
 
+/*Description: for function main()*/
 int main(void)
 {
 	int n = 0;
+
 	while (n < 10)
 	{
 		printf("%d", n);
@@ -25,5 +25,4 @@ int main(void)
 	putchar('\n');
 	
 	return (0);
-
 }

@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <time.h>
 /**
-*
 *main - entry point
 *
 *Description: prints "is it positive or negative"
@@ -12,9 +11,10 @@
 */
 
 int main(void)
+/*Description for function main()*/
 {
-
 	int n;
+
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
 	if (n > 0)

@@ -5,7 +5,7 @@
 *
 *Description: codes highlights
 *
-* Return: Always 0.
+* Return: Always 0 (Success)
 *
 */
 int main(void)
@@ -13,7 +13,7 @@ int main(void)
 	char b;
 	for (b = 'a'; b <= 'z'; b++)
 	{
-	putchar(b)
+	putchar(b);
 	}
 	for (b = 'A'; b <= 'Z'; b++)
 	{
